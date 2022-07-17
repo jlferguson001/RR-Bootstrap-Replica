@@ -1,10 +1,6 @@
- 
 
 
-
-
-
- export default function StoreListings(){
+ export default function Background(){
     return (
       <div>
         
